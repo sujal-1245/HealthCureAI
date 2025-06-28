@@ -91,12 +91,13 @@ export default function Disease() {
 
             {selected.map((s, i) => (
   <motion.div
-    key={i}
-    initial={{ opacity: 0 }}
-    animate={{ opacity: 1 }}
-    transition={{ delay: i * 0.1 }}
-    className="flex flex-col sm:flex-row items-center gap-3 mb-4"
-  >
+  key={i}
+  initial={{ opacity: 0 }}
+  animate={{ opacity: 1 }}
+  transition={{ delay: i * 0.1 }}
+  className="flex items-center justify-between gap-3 mb-4"
+>
+  <div className="flex flex-col sm:flex-row gap-3 flex-1">
     <select
       className="w-full sm:flex-1 px-4 py-2 bg-white bg-opacity-60 backdrop-blur-md border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 appearance-none"
       value={s.symptom}
@@ -118,14 +119,18 @@ export default function Disease() {
       <option value={1}>Mild</option>
       <option value={2}>Severe</option>
     </select>
+  </div>
 
+  <div className="flex-shrink-0">
     <button
       onClick={() => remove(i)}
-      className="text-red-600 hover:text-red-800 transition mt-2 sm:mt-0"
+      className="text-red-600 hover:text-red-800 transition"
     >
       <FaTrashAlt size={18} />
     </button>
-  </motion.div>
+  </div>
+</motion.div>
+
 ))}
 
 <div className="flex flex-col sm:flex-row justify-between items-center gap-4 mb-6">
