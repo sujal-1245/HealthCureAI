@@ -8,7 +8,7 @@ import TipsCarousel from "./TipsCarousel";
 import OnboardingModal from "./OnboardingModal";
 import DoctorMap from "./DoctorMap";
 
-const BACKEND_URL = "http://127.0.0.1:8000";
+const BACKEND_URL = "https://healthcureai.onrender.com";
 
 function SideDecor() {
   const icons = [
