@@ -33,7 +33,7 @@ export default function Landing() {
   return (
     <div className="text-gray-800 overflow-hidden">
       {/* Hero */}
-      <section className="relative bg-gradient-to-r from-blue-600 to-purple-600 text-white overflow-hidden">
+      <section className="relative bg-gradient-to-r from-pink-600 to-purple-600 text-white overflow-hidden">
         <div className="max-w-7xl mx-auto px-6 py-32 flex flex-col md:flex-row items-center justify-between gap-12">
           <div className="flex-1 backdrop-blur-sm bg-white/10 p-8 rounded-3xl shadow-xl">
             <motion.h1 initial={{ y: -20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.2, duration: 0.6 }} className="text-5xl font-extrabold md:text-6xl">
