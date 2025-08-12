@@ -33,7 +33,7 @@ export default function Landing() {
   return (
     <div className="text-gray-800 overflow-hidden">
       {/* Hero */}
-      <section className="relative bg-gradient-to-r from-pink-600 to-purple-600 text-white overflow-hidden">
+      <section className="relative bg-gradient-to-r from-blue-600 to-purple-600 text-white overflow-hidden">
         <div className="max-w-7xl mx-auto px-6 py-32 flex flex-col md:flex-row items-center justify-between gap-12">
           <div className="flex-1 backdrop-blur-sm bg-white/10 p-8 rounded-3xl shadow-xl">
             <motion.h1 initial={{ y: -20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.2, duration: 0.6 }} className="text-5xl font-extrabold md:text-6xl">
@@ -66,7 +66,7 @@ export default function Landing() {
       </section>
 
       {/* About */}
-      <section className="relative py-24 px-4 bg-gradient-to-r from-pink to-gray-50 overflow-hidden">
+      <section className="relative py-24 px-4 bg-gradient-to-r from-white to-gray-50 overflow-hidden">
         <div className="absolute inset-0 bg-white/30 backdrop-blur-md rounded-3xl pointer-events-none" />
         <div className="relative z-10 mx-auto flex max-w-6xl flex-col items-center gap-12 md:flex-row">
           <motion.div initial={{ x: -50, opacity: 0 }} whileInView={{ x: 0, opacity: 1 }} viewport={{ once: true }} transition={{ duration: 0.6 }} className="flex-1 bg-white/50 backdrop-blur-md p-8 rounded-3xl shadow-xl">
