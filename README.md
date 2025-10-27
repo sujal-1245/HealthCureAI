@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="assets/logo.png" alt="HealthCureAI Logo" width="120" height="120">
+  <img src="[assets/logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFf8a_KoIGl0Sd8fPSRyHEG5tKxlkP6Z-6w&s)" alt="HealthCureAI Logo" width="120" height="120">
 </p>
 
 <h1 align="center">💊 HealthCureAI</h1>
