@@ -1,9 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b512c03-a3cf-46bb-8f20-58e7e10f5509" 
-       alt="HealthCureAI Logo" 
-       width="120" 
-       height="120" />
+  <img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/cf1052a9-d7dc-4ad1-8a8d-3536c6fa37ad" />
+
 </p>
 
 
