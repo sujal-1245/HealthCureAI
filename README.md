@@ -1,7 +1,11 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="[assets/logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjFf8a_KoIGl0Sd8fPSRyHEG5tKxlkP6Z-6w&s)" alt="HealthCureAI Logo" width="120" height="120">
+  <img src="https://github.com/user-attachments/assets/1b512c03-a3cf-46bb-8f20-58e7e10f5509" 
+       alt="HealthCureAI Logo" 
+       width="120" 
+       height="120" />
 </p>
+
 
 <h1 align="center">💊 HealthCureAI</h1>
 <p align="center">
