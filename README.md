@@ -164,12 +164,9 @@ MAP_API_KEY=YOUR_MAP_API_KEY
   <em>Interactive demo showing prediction flow and map feature.</em>
 </p>
 
-| Home Page                   | Prediction Result             | Doctor Locator             |
-| --------------------------- | ----------------------------- | -------------------------- |
-| <img width="1895" height="894" alt="image" src="https://github.com/user-attachments/assets/8ff8cb12-e1f0-440e-be3d-5bf73f060347" />
- | <img width="415" height="275" alt="image" src="https://github.com/user-attachments/assets/fbf16f8e-ff9c-42e7-b544-15bb6f23b33a" />
- | <img width="415" height="271" alt="image" src="https://github.com/user-attachments/assets/075657b9-5d6f-47b3-836e-21e3c50ec086" />
- |
+| Home Page | Prediction Result | Doctor Locator |
+|------------|-------------------|----------------|
+| <img width="600" alt="Home Page" src="https://github.com/user-attachments/assets/8ff8cb12-e1f0-440e-be3d-5bf73f060347" /> | <img width="300" alt="Prediction Result" src="https://github.com/user-attachments/assets/fbf16f8e-ff9c-42e7-b544-15bb6f23b33a" /> | <img width="300" alt="Doctor Locator" src="https://github.com/user-attachments/assets/075657b9-5d6f-47b3-836e-21e3c50ec086" /> |
 
 ---
 
